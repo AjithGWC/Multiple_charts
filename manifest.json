@@ -1,0 +1,17 @@
+{
+  "name": "Dashboard",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "a991d34b-916e-4668-896f-7fe1a34dd507",
+      "alias": "dash",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "2fdee9f6-2973-4595-9214-a4739f9024f2"
+}
